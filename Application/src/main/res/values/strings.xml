@@ -40,6 +40,7 @@
         brisket. Filet mignon shankle t-bone bacon. Turducken capicola turkey porchetta kielbasa
         shank pork loin jerky venison tenderloin boudin ham hock ground round.</string>
 
-    <string name="image_header">%1$s by %2$s</string>
+    <!--formatConversion-->
+    <string name="image_header">%1$s by %2$s and %3$s</string>
 
 </resources>
